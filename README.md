@@ -59,6 +59,3 @@ All kinds of contributions are welcome - code, tests, documentation, bug reports
 * Submit bug reports.
 * Write/Edit the documents.
 * Fix bugs or add new features.
-
-Contact me
-------------
