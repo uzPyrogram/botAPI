@@ -62,12 +62,3 @@ All kinds of contributions are welcome - code, tests, documentation, bug reports
 
 Contact me
 ------------
-
-You can contact me [via Telegram](https://telegram.me/algol-team) but if you have an issue please [open](https://github.com/algol-team) one.
-
-Support me
-------------
-
-You can support me using via LiberaPay [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/algol-team/donate)
-
-or buy me a beer or two using [Paypal](https://paypal.me/algol-team).
