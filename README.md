@@ -23,9 +23,6 @@ php composer.phar require algol-team/library
 ```
 Note: If you don't have Composer you can download it [HERE](https://getcomposer.org/download/).
 
-#### Using release archives
-
-https://github.com/algol-team/php-utility/releases
 
 #### Using Git
 
